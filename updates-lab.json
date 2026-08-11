@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.36.6",
-  "latestVersionCode": 140,
+  "latestVersion": "0.36.7",
+  "latestVersionCode": 141,
   "publishedAt": "2026-08-11",
-  "apkUrl": "https://github.com/NowardEthan/orbit-lab-releases/releases/download/v0.36.6/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-lab-releases/releases/download/v0.36.7/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.36.7-2026-08-11",
+      "date": "2026-08-11",
+      "version": "0.36.7",
+      "tag": "novidade",
+      "title": "Fluxo agêntico mais limpo",
+      "body": "A Luna ficou mais direta ao usar ferramentas: menos diário de bordo no meio do chat, ações compactadas e resposta final mais limpa em fluxos com artefatos."
+    },
     {
       "id": "lab-0.36.6-2026-08-11",
       "date": "2026-08-11",
