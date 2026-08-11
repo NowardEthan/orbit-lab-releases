@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.36.0",
-  "latestVersionCode": 134,
-  "publishedAt": "2026-08-07",
-  "apkUrl": "https://github.com/NowardEthan/orbit-lab-releases/releases/download/v0.36.0/orbit.apk",
+  "latestVersion": "0.36.6",
+  "latestVersionCode": 140,
+  "publishedAt": "2026-08-11",
+  "apkUrl": "https://github.com/NowardEthan/orbit-lab-releases/releases/download/v0.36.6/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.36.6-2026-08-11",
+      "date": "2026-08-11",
+      "version": "0.36.6",
+      "tag": "novidade",
+      "title": "Reenvio mais confiavel",
+      "body": "Corrige o botao de reenviar em fluxos com artefatos, imagens e anexos: a Luna preserva o contexto original e regenera a resposta sem cair em cache antigo."
+    },
     {
       "id": "lab-0.36.0-2026-08-07",
       "date": "2026-08-07",
